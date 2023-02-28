@@ -126,13 +126,12 @@ nav {
     background-color: #F13C6E;
     background-repeat: no-repeat;
     width: 100%;
-    height: 400px;
 }
 
 .banner-wrapper {
     display: block;
     width: 24%;
-    padding: 95px 0 31px 20px;
+    padding: 40px 0 60px 20px;
 }
 
 .banner-section h2 {
@@ -140,13 +139,16 @@ nav {
     color: #FFFFFF;
 }
 
-.banner-section p{
+.banner-section span{
+    margin: 50px 0;
+    display: block;
     font-size: 14px;
     line-height: 20px;
     color:#FFFFFF;
 }
 
-.banner-wrapper .btn {
+.banner-wrapper a {
+    padding: 18px 95px 19px 91px;
     margin: 20px 0;
     background: transparent;
     border-color: white;
